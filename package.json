@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AdrianoDeSiqueira/clean-architeture/issues"
   },
-  "homepage": "https://github.com/AdrianoDeSiqueira/clean-architeture#readme"
+  "homepage": "https://github.com/AdrianoDeSiqueira/clean-architeture#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.4.1"
+  }
 }
