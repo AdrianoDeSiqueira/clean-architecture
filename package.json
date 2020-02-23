@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/AdrianoDeSiqueira/clean-architeture#readme",
   "devDependencies": {
-    "git-commit-msg-linter": "^2.4.1"
+    "@types/node": "^13.7.4",
+    "git-commit-msg-linter": "^2.4.1",
+    "typescript": "^3.8.2"
   }
 }
